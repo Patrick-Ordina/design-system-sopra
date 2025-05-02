@@ -1,0 +1,1 @@
+const e={parameters:{controls:{matchers:{color:/(background|color)$/i,date:/Date$/i}},options:{storySort:{order:["Design Tokens","Elementen","Componenten","Layout","Patronen","Thema","Documentatie"]}}}};export{e as default};
