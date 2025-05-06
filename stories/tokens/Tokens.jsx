@@ -1,5 +1,5 @@
 import React from 'react';
-import './Tokens.css';
+import './tokens.css';
 
 export const Tokens = () => {
   return (
