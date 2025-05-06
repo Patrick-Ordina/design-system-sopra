@@ -8,14 +8,14 @@ const lightTheme = {
   ...themes.light,
   brandTitle,
   brandUrl,
-  brandImage: '../stories/assets/images/logo-soprasteria-light.svg',
+  brandImage: 'images/logo-soprasteria-light.svg',
 };
 
 const darkTheme = {
   ...themes.dark,
   brandTitle,
   brandUrl,
-  brandImage: '../stories/assets/images/logo-soprasteria-dark.svg',
+  brandImage: 'images/logo-soprasteria-dark.svg',
 };
 
 const isDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
