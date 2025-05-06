@@ -10,7 +10,7 @@ export default {
   staticDirs: ['../public'], // ← nodig voor logo/fonts/etc.
   viteFinal: async (config) => {
     return mergeConfig(config, {
-      base: '/design-system/', // 👈 naam van je GitHub repo
+      base: '/design-system-sopra/', // 👈 naam van je GitHub repo
     });
   },
 };
